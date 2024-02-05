@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/phangtono/results-summary-component)
+- Live Site URL: [live site](https://verdant-buttercream-7d42ac.netlify.app/)
 
 ## My process
 
