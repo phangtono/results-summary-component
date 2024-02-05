@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
@@ -69,4 +69,4 @@ For this challenge, I started from mobile first.
 
 ### Useful resources
 
-- [Kevin Powell](https://www.youtube.com/watch?v=KqFAs5d3Yl8&list=WL&index=15)"# results-summary-component" 
+- [Kevin Powell](https://www.youtube.com/watch?v=KqFAs5d3Yl8&list=WL&index=15)
